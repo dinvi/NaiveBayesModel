@@ -25,6 +25,9 @@ import scala.Tuple2;
  */
 public class Classifier {
 
+//    private static final String PATH_MODEL = "/home/daniele/TrainEvalutate/dataset/myNaiveBayesModel";
+//    private static final String PATH_HAM_DATA = "/home/daniele/TrainEvalutate/dataset/ham.txt";
+//    private static final String PATH_SPAM_DATA = "/home/daniele/TrainEvalutate/dataset/spam.txt";
     private static final String PATH_MODEL = "dataset/myNaiveBayesModel";
     private static final String PATH_HAM_DATA = "dataset/ham.txt";
     private static final String PATH_SPAM_DATA = "dataset/spam.txt";
